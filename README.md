@@ -13,7 +13,3 @@
 ## 编辑
 
 直接改 `config.json`, push 到 `main`. Worker 通过 `CONFIG_URL` 拉取, 60s 缓存自动失效.
-
-## 主项目
-
-代码仓库见 [stock_summary](https://github.com/genkin-he/stock_summary).
